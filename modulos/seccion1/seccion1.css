@@ -1,0 +1,38 @@
+.seccion1 {
+    padding: 0 24px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.seccion1 .texto1 {
+    font-size: 13px;
+    color: #486284;
+    margin-top: 40px;
+}
+
+.seccion1 h2 {
+    font-size: 24px;
+    color: #486284;
+}
+
+.seccion1 .descripcion {
+    font-size: 13px;
+    color: #486284;
+}
+
+.btn1 {
+    width: 100%;
+    border: 1px solid #486284;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 30px;
+
+    font-size: 16px;
+    color: #486284;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
